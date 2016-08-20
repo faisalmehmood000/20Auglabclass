@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#div-1{
+    margin: 0 auto;
+    border: 4px double #000000;
+    width: 900px;
+}
+
+.div-2{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 60%;
+}
+li{
+    display: inline;
+     padding: 20px
+
+}
+a{
+    text-decoration: none;
+}
+#logo{
+    margin-left: 300px
+}
+.bottom{
+    border: 2px solid #000000;
+    padding: 8px;
+    width: 300px;
+    margin: 0 auto;
+
+}
